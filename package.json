@@ -1,0 +1,15 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js && echo 'Program started'"
+  },
+  "author": "Djescho Mananga",
+  "license": "ISC",
+  "dependencies": {
+    "eleventy-plugin-embed-spotify": "^1.2.0",
+    "spotify": "^0.3.0"
+  }
+}
