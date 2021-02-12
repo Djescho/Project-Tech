@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js && echo 'Program started'"
+    "start": "node index.js"
   },
   "author": "Djescho Mananga",
   "license": "ISC",
